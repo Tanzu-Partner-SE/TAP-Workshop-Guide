@@ -33,9 +33,11 @@ This workshop helps you to get some good understanding on below topics:
 - Lab 15 - [ Clean Up](./15-cleanup.md)
 
 
-For more info you can refer to: 
-
+TAP Documentation: 
 ```dashboard:open-url
-url: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.3/tap/GUID-overview.html 
-url: https://www.youtube.com/watch?v=H6rbIkaJ1xc   
+url: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.3/tap/GUID-overview.html
+```
+Short Video onTAP: 
+```dashboard:open-url
+url: https://www.youtube.com/watch?v=H6rbIkaJ1xc
 ```
