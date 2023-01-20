@@ -18,7 +18,7 @@ This workshop helps you to get some good understanding on below topics:
 
 - Lab 8 - [Supply Chain](./08-Supply-Chain.md)
 
-- Lab 9 - [Deliverables](./09-Deliverable.md
+- Lab 9 - [Deliverables](./09-Deliverable.md)
 
 - Lab 10 - [Cartographer](./10-Catrographer.md)
 
